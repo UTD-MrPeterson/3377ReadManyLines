@@ -46,13 +46,5 @@ int main(int argc, char** argv) {
     } else {
         readCPlusPlusWay();
     }
-
-    /*std::ofstream outputFile("input");
-
-    for ( int i=0; i<999'999; i++) {
-        outputFile << "Hello, world!\n";
-    }
-    outputFile << "Hello, world!";
-    outputFile.close();*/
     return 0;
 }
